@@ -3,6 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm MNazim</h1>
 <h3 align="center">Made myself as a Web App Developer, UI Designer and a Security Researcher to make my Dream fulfil</h3>
 
+<a href="https://youtube.com/MNAZIM"><img alt="Youtube" src="https://img.shields.io/badge/youtube%20-%230077B5.svg?&style=flat&logo=youtube&logoColor=white"/></a> &nbsp;
 
 ## 🙋‍♂️ About Me
 
@@ -56,7 +57,7 @@
 <br/>
 
 ## Connect with me:
-<a href="https://facebook.com"><img alt="Faceboook" src="https://img.shields.io/badge/facebook%20-%230077B5.svg?&style=flat&logo=facebook&logoColor=white"/></a> &nbsp;
+<a href="https://facebook.com/mnuddin.dh"><img alt="Faceboook" src="https://img.shields.io/badge/facebook%20-%230077B5.svg?&style=flat&logo=facebook&logoColor=white"/></a> &nbsp;
 <a href="mailto:inadilsam@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 ## ❤ Views and Followers
