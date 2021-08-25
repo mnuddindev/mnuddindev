@@ -3,7 +3,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm MNazim</h1>
 <h3 align="center">Made myself as a Web App Developer, UI Designer and a Security Researcher to make my Dream fulfil</h3>
 
-<a href="https://youtube.com/MNAZIM"><img alt="Youtube" src="https://img.shields.io/badge/youtube%20-%230077B5.svg?&style=flat&logo=youtube&logoColor=white"/></a> &nbsp;
+<p align="center">
+    <a href="https://youtube.com/MNAZIM"><img alt="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UCuZk8IH3eGymBU-FVW8Rc4Q?style=social"/></a> &nbsp;
+    <a href="https://youtube.com/MNAZIM"><img alt="Youtube" src="https://img.shields.io/youtube/channel/views/UCuZk8IH3eGymBU-FVW8Rc4Q?style=social"/></a> &nbsp;
+</p>
+    
 
 ## 🙋‍♂️ About Me
 
