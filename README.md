@@ -11,7 +11,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **CMS (Country Management System)**
+- 🔭 I’m currently working on **JUTSU**
 
 - 🌱 I’m currently learning **Bug Bounty**
 
