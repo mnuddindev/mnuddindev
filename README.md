@@ -11,7 +11,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **JUTSU**
+- 🔭 I’m currently working on **[JUTSU](https://github.com/inadislam/jutsu)**
 
 - 🌱 I’m currently learning **Bug Bounty**
 
