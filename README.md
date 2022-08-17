@@ -11,7 +11,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[JUTSU](https://github.com/inadislam/jutsu)**
+- 🔭 I’m currently working on **[HackerRank Solution using GoLang](https://github.com/inadislam/hr-go-solution)**
 
 - 🌱 I’m currently learning **Bug Bounty**
 
