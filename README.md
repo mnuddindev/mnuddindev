@@ -16,14 +16,15 @@
 [![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge)](mailto:inadislam@gmail.com)
 
 ```diff
-	+ Building scalable API with Go
-	+ Instead of Hunting bugs, Hunting jobs for now.
-	+ Building frontend using REACT
++ Building scalable systems with Go
++ Hunting bugs and securing applications
++ Shipping production-ready code
 ```
 
 </div>
 
 ---
+
 # $ whoami
 
 ```go
