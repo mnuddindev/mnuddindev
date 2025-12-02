@@ -12,7 +12,7 @@
 
 [![Open for Hire](https://img.shields.io/badge/💼_Open_for_Hire-Yes-00D9FF?style=for-the-badge)](mailto:inadislam@gmail.com)
 [![Open Source](https://img.shields.io/badge/❤️_Open_Source-Contributor-FF6B6B?style=for-the-badge)](https://github.com/mnuddindev)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-4CAF50?style=for-the-badge)](https://inadislam.github.io/dev-portfolio)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-4CAF50?style=for-the-badge)](https://mnuddindev.github.io/)
 [![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge)](mailto:inadislam@gmail.com)
 
 ```diff
@@ -109,3 +109,12 @@ func main() {
 </div>
 
 ---
+
+**Active Projects:**
+- 🍥 [Jutsu API](https://github.com/mnuddindev/jutsu-api) - Currently Building
+- 🌐 [Portfolio](https://inadislam.github.io/dev-portfolio) - My digital footprint
+- 💻 Various Go CLI tools & API's
+
+---
+
+**⚡ Thanks for dropping by. Now go write some code. ⚡**
