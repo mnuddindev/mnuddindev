@@ -16,9 +16,9 @@
 [![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge)](mailto:inadislam@gmail.com)
 
 ```diff
-+ Building scalable systems with Go
++ Building scalable API with Go
 + Instead of Hunting bugs, hunting jobs
-+ Shipping production-ready code
++ Designing cool ui with React
 ```
 
 </div>
