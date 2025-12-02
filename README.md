@@ -74,30 +74,34 @@ func main() {
 ---
 
 ## $ cat skills.txt
-
-```bash
-# Core Languages
-├── Go (Golang)          # Concurrency, APIs, CLI tools
-├── PHP			         # Wordpress
-├── JavaScript        	 # Node.js
-├── Python               # Scripting, automation
-└── SQL                  # Database wizardry
-
-# Backend & Systems
-├── REST APIs
-├── Linux systems
-└── Database design
-
-# Security
-├── Bug Bounty Hunting
-├── Penetration Testing
-└── Security Research
-
-# Tools I Actually Use
-├── Git                  # Version control
-├── VS Code / Neovim     # Editor wars? Both.
-├── PostgreSQL           # Data persistence
-└── Redis                # Caching layer
-```
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="60" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+</div>
 
 ---
