@@ -17,7 +17,7 @@
 
 ```diff
 + Building scalable systems with Go
-+ Hunting bugs and securing applications
++ Instead of Hunting bugs, hunting jobs
 + Shipping production-ready code
 ```
 
