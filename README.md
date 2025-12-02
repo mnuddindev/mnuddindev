@@ -115,6 +115,4 @@ func main() {
 - 🌐 [Portfolio](https://inadislam.github.io/dev-portfolio) - My digital footprint
 - 💻 Various Go CLI tools & API's
 
----
-
 **⚡ Thanks for dropping by. Now go write some code. ⚡**
