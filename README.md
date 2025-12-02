@@ -71,3 +71,33 @@ func main() {
 	me.SayHello()
 }
 ```
+---
+
+## $ cat skills.txt
+
+```bash
+# Core Languages
+├── Go (Golang)          # Concurrency, APIs, CLI tools
+├── PHP			         # Wordpress
+├── JavaScript        	 # Node.js
+├── Python               # Scripting, automation
+└── SQL                  # Database wizardry
+
+# Backend & Systems
+├── REST APIs
+├── Linux systems
+└── Database design
+
+# Security
+├── Bug Bounty Hunting
+├── Penetration Testing
+└── Security Research
+
+# Tools I Actually Use
+├── Git                  # Version control
+├── VS Code / Neovim     # Editor wars? Both.
+├── PostgreSQL           # Data persistence
+└── Redis                # Caching layer
+```
+
+---
